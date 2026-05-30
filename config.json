@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvonnect",
+        "uuid": 6560346,
+        "checksum": "eh4hbi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
